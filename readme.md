@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Android and Backend<br>
 - 🏠 Now domicile in Malang City<br>
 <br>
-### 💻 Tech Stack:
+### 💻 Tech Stack:<br>
 <a href="https://github.com/yahyafakhroji/yahyafakhroji">
     <img src="https://skillicons.dev/icons?i=ts,js,sass,react,vue,flutter,vite" />
   </a>

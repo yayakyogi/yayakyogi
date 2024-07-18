@@ -6,25 +6,25 @@
 - 🏠 Now domicile in Malang City<br>
 
 ### 💻 Tech Stack:
-<a href="https://github.com/yahyafakhroji/yahyafakhroji">
+<a href="https://github.com/yayakyogi">
     <img src="https://skillicons.dev/icons?i=ts,js,sass,react,vue,flutter,vite" />
   </a>
     <br>
-  <a href="https://github.com/yahyafakhroji/yahyafakhroji">
+  <a href="https://github.com/yayakyogi">
     <img src="https://skillicons.dev/icons?i=nextjs,materialui,bootstrap,tailwind,mysql,mongo" />
   </a>
   <br>
-  <a href="https://github.com/yahyafakhroji/yahyafakhroji">
+  <a href="https://github.com/yayakyogi">
     <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman" />
   </a>
  
 
 ### 📊 GitHub Stats:
-<a href="https://github.com/yahyafakhroji/yahyafakhroji">
+<a href="https://github.com/yayakyogi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayakyogi&layout=compact&hide=c%23,html,css,java&langs_count=3" />
 </a>
 <br><br>
-<a href="https://github.com/yahyafakhroji/yahyafakhroji">
+<a href="https://github.com/yayakyogi">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yayakyogi&theme=flat&hide_border=true" alt="Yahya's GitHub Stats" />
 </a>
 

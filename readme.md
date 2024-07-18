@@ -23,7 +23,6 @@
 <a href="https://github.com/yayakyogi">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yayakyogi&theme=flat&hide_border=true" alt="Yogi's GitHub Stats" />
 </a>
-![Yogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yayakyogi&show_icons=true&theme=radical)
 
 ### 🌐 Find me on:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yayakyogi.ginantaka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yayak_yogi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yayakyogi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/yogi_yayak) 

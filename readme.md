@@ -18,8 +18,6 @@
     <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman" />
   </a>
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yayakyogi)](https://git.io/streak-stats)
-
 ### 📊 GitHub Stats:
 <a href="https://github.com/yayakyogi">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yayakyogi&theme=flat&hide_border=true" alt="Yogi's GitHub Stats" />

@@ -7,7 +7,7 @@
 
 ### 💻 Tech Stack:
 <a href="https://github.com/yayakyogi">
-    <img src="https://skillicons.dev/icons?i=ts,js,sass,react,vue,flutter,vite" />
+    <img src="https://skillicons.dev/icons?i=ts,js,sass,react,vue,angular,flutter,vite" />
   </a>
     <br>
   <a href="https://github.com/yayakyogi">

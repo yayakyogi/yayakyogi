@@ -15,7 +15,7 @@
   </a>
   <br>
   <a href="https://github.com/yayakyogi">
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,graphql,elixir,phoenix" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,graphql,elixir" />
   </a>
  
 ### 📊 GitHub Stats:

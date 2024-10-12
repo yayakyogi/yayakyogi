@@ -1,7 +1,7 @@
 # Assalamualaikum, I'm Yogi 👋
 [![](https://visitcount.itsvg.in/api?id=yayakyogi&icon=7&color=1)](https://visitcount.itsvg.in)
 <br>
-- 🚀 Frontend Developer focused on developing product with website technolgies<br>
+- 🚀 Software Developer focused on developing product with website technolgies<br>
 - 🌱 I’m currently learning Android and Backend<br>
 - 🏠 Now domicile in Malang City<br>
 

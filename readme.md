@@ -2,8 +2,8 @@
 [![](https://visitcount.itsvg.in/api?id=yayakyogi&icon=7&color=1)](https://visitcount.itsvg.in)
 <br>
 - 🚀 Software Developer focused on developing product with website technolgies<br>
-- 🌱 I’m currently learning Android and Backend<br>
-- 🏠 Now domicile in Malang City<br>
+- 🌱 I’m currently learning Backend Development<br>
+- 🏠 Now domicile in Tulungagung City<br>
 
 ### 💻 Tech Stack:
 <a href="https://github.com/yayakyogi">
